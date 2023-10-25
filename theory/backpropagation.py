@@ -11,7 +11,6 @@ def sigmoid(x):
 def sigmoid_derivative(x):
     return x * (1 - x)
 
-
 # Initialize parameters
 input_size = 2
 hidden_size = 2
