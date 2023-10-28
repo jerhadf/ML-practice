@@ -1,10 +1,10 @@
 # visualizations and code for universal approximation in python
 
 # Import additional libraries for better plotting
-from matplotlib.ticker import MaxNLocator
-import numpy as np
-from torch import sigmoid
 import matplotlib as plt
+import numpy as np
+from matplotlib.ticker import MaxNLocator
+from torch import sigmoid
 
 
 # Define a simple function to approximate (sine function)
