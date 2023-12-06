@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "answer": "Juan",
+            "confidence": 0.8311508779078588,
+            "context": "UnitedHealthcare\u00ae Community Plan PRIOR AUTHORIZATION REQUEST FORM Complete ENTIRE form and Fax to: 866-940-7328 Today's Date: SECTION A - PATIENT INFORMATION First Name: Juan Last Name: Rodr\u00edguez Address: 1942 Slocum Member ID: 56791377 Rd, Dix Hills, NY City: Dix Hills State: New York Phone 515-739-8864 DOB: 10/17/1992 Primary Insurance: United Select Policy #: 574469812 Zip: 13295 Allergies: Peanuts Group #: 2647 12/19/21 Is the requested medication NEW [' or a CONTINUATION of THERAPYD]? If so, start date: Is this patient currently hospitalized? Yes No SECTION B - PHYSICIAN INFORMATION M.D. D.O. First Name: Samuel Last Name: Charles City: Watertown State:\n",
+            "question": "What is the patient's first name?"
+        },
+        {
+            "answer": "Rodr\u00edguez",
+            "confidence": 0.8340036364743972,
+            "context": "UnitedHealthcare\u00ae Community Plan PRIOR AUTHORIZATION REQUEST FORM Complete ENTIRE form and Fax to: 866-940-7328 Today's Date: SECTION A - PATIENT INFORMATION First Name: Juan Last Name: Rodr\u00edguez Address: 1942 Slocum Member ID: 56791377 Rd, Dix Hills, NY City: Dix Hills State: New York Phone 515-739-8864 DOB: 10/17/1992 Primary Insurance: United Select Policy #: 574469812 Zip: 13295 Allergies: Peanuts Group #: 2647 12/19/21 Is the requested medication NEW [' or a CONTINUATION of THERAPYD]? If so, start date: Is this patient currently hospitalized? Yes No SECTION B - PHYSICIAN INFORMATION M.D. D.O. First Name: Samuel Last Name: Charles City: Watertown State:\n",
+            "question": "What is the patient's last name?"
+        },
+        {
+            "answer": "13 Jericho Ave",
+            "confidence": 0.849730056956397,
+            "context": "UnitedHealthcare\u00ae Community Plan PRIOR AUTHORIZATION REQUEST FORM Complete ENTIRE form and Fax to: 866-940-7328 Today's Date: SECTION A - PATIENT INFORMATION First Name: Juan Last Name: Rodr\u00edguez Address: 1942 Slocum Member ID: 56791377 Rd, Dix Hills, NY City: Dix Hills State: New York Phone 515-739-8864 DOB: 10/17/1992 Primary Insurance: United Select Policy #: 574469812 Zip: 13295 Allergies: Peanuts Group #: 2647 12/19/21 Is the requested medication NEW [' or a CONTINUATION of THERAPYD]? If so, start date: Is this patient currently hospitalized? Yes No SECTION B - PHYSICIAN INFORMATION M.D. D.O. First Name: Samuel Last Name: Charles City: Watertown State:\n",
+            "question": "What is the physician's full address? Include the address, city, state, and zip code."
+        },
+        {
+            "answer": "Not Hospitalized",
+            "confidence": 0.8388048967073227,
+            "context": "UnitedHealthcare\u00ae Community Plan PRIOR AUTHORIZATION REQUEST FORM Complete ENTIRE form and Fax to: 866-940-7328 Today's Date: SECTION A - PATIENT INFORMATION First Name: Juan Last Name: Rodr\u00edguez Address: 1942 Slocum Member ID: 56791377 Rd, Dix Hills, NY City: Dix Hills State: New York Phone 515-739-8864 DOB: 10/17/1992 Primary Insurance: United Select Policy #: 574469812 Zip: 13295 Allergies: Peanuts Group #: 2647 12/19/21 Is the requested medication NEW [' or a CONTINUATION of THERAPYD]? If so, start date: Is this patient currently hospitalized? Yes No SECTION B - PHYSICIAN INFORMATION M.D. D.O. First Name: Samuel Last Name: Charles City: Watertown State:\n",
+            "question": "What is the patient's hospitalization status? Answer as one of Hospitalized, Not Hospitalized, or N/A if no info present."
+        },
+        {
+            "answer": "Naproxen",
+            "confidence": 0.8476870771596695,
+            "context": "be faxed with this form to assist with the determination of medical necessity): - Acetaminophen is not strong enough consitering this patient's Pain is registering a 5 out of 10 and stating\"Ouche, I can't sleep \" Other Medications Tried Reason for failure / discontinuation Strength Directions Dates of Therapy Medications Needs Acetaminophen 500 mg 200 mg Hab QYH for pain 1 tab Q6H for. para 7/7/1999-11/15/2021 Strange. medelation Naproxen 11/15/2021-12/18/2021 Stomach viceratio & GI bleed Date: 12/18/21 Physician Signature: Confidentiality Notice: This transmission contains confidential information belonging to the sender and UnitedHealthcare. This information is intended only for the use\n",
+            "question": "What are all the other medication names the patient tried? Return as a full list of the name, strength, directions, date of therapy, and reasons for failure for each medication."
+        }
+    ],
+    "documentId": null,
+    "endTime": 1699656576192,
+    "id": "-NivQHnRPmuKA5DIVtjY",
+    "model": "RikAI:1.2",
+    "pages": 1,
+    "questions": 5,
+    "startTime": 1699656568864,
+    "status": "SUCCESS"
+}
